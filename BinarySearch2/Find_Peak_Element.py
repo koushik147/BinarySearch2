@@ -1,3 +1,5 @@
+#TimeComplexity: O(log n)
+#SpaceComplexity: O(1)
 class Solution(object):
     def findPeakElement(self, nums):
         """
